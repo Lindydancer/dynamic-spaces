@@ -1,7 +1,7 @@
-# dynamic-spaces - When editing, don't move text separated by spaces
+# dynamic-spaces - Don't move text separated by multiple spaces
 
 *Author:* Anders Lindgren<br>
-*Version:* 0.0.0<br>
+*Version:* 0.0.1<br>
 *URL:* [https://github.com/Lindydancer/dynamic-spaces](https://github.com/Lindydancer/dynamic-spaces)<br>
 
 When editing a text, and `dynamic-spaces-mode` is enabled, text

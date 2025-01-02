@@ -1,10 +1,10 @@
-;;; dynamic-spaces.el --- When editing, don't move text separated by spaces
+;;; dynamic-spaces.el --- Don't move text separated by multiple spaces -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2015-2017  Anders Lindgren
+;; Copyright (C) 2015-2017,2025  Anders Lindgren
 
 ;; Author: Anders Lindgren
 ;; Created: 2015-09-10
-;; Version: 0.0.0
+;; Version: 0.0.1
 ;; Keywords: convenience
 ;; URL: https://github.com/Lindydancer/dynamic-spaces
 

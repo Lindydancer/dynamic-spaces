@@ -1,6 +1,6 @@
-;;; dynamic-spaces-test-setup.el --- Setup and execute all tests.
+;;; dynamic-spaces-test-setup.el --- Execute dynaminc-spaces tests. -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2017 Anders Lindgren
+;; Copyright (C) 2017,2025 Anders Lindgren
 
 ;; Author: Anders Lindgren
 ;; Keywords: faces

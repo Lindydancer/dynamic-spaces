@@ -1,6 +1,6 @@
-;;; dynamic-spaces-test.el --- Tests for dynamic-spaces.
+;;; dynamic-spaces-test.el --- Tests for dynamic-spaces. -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2015  Anders Lindgren
+;; Copyright (C) 2015,2025  Anders Lindgren
 
 ;; Author: Anders Lindgren
 
